@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Saisarithasurla/Saisarithasurla/blob/main/background.png?raw=true" alt="Background Image" width="800"/>
+  <img src="https://github.com/Saisarithasurla/Saisarithasurla/blob/main/Saritha.png" alt="Background Image" width="800"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Surla Sai Saritha</h1>
