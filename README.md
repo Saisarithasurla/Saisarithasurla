@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/surlasaritha/surlasaritha/blob/main/background.png?raw=true" alt="Background Image" width="800"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Surla Sai Saritha</h1>
 <h3 align="center">A passionate Full Stack Python Developer from India</h3>
 
